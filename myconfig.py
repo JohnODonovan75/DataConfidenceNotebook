@@ -1,0 +1,5 @@
+dbusername='username'
+dbpassword='password'
+dbhost='servername'
+dbport='port'
+dbname='databasename'
