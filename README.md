@@ -9,9 +9,9 @@
 
 #How to use
       To get most benefit from this a good understanding of your dataset is required.
-      In the spirit of the original Friday Afternoon Measurement, ideally the most recent values, as it's important 
-      to reflect what's happening with the dataset when you are performing the test, rather than looking at some 
-      historic data as a represention of current data.
+      In the spirit of the original Friday Afternoon Measurement, ideally the most recent values, as it's 
+      important to reflect what's happening with the dataset when you are performing the test, rather 
+      than looking at some historic data as a represention of current data.
   
 #Main Features
       Identify instances of known error / null codes
